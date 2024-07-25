@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'fantasy';
+}
+
+
+.header {
+    background-image: radial-gradient(circle 369px at -2.9% 12.9%, #f7eaa3 0%, #ecb4ee8f 46.4%, rgba(163, 203, 247, 1) 100.7%);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+
+.nav-item:hover {
+    background-color: #ecb4ee8f;
+    color: aliceblue;
+    padding: 2px 4px;
+}
+
+
+.hero-section {
+    text-align: center;
+
+
+}
+
+
+.hero-section .text-1 {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+
+.home {
+    background-color: #C2FFD8;
+    padding: 60px;
+}
+
+.home:hover {
+    background-color: #e9bdab;
+    padding: 60px;
+}
+
+
+.about {
+    background-color: #9599E2;
+    padding: 60px;
+}
+
+.about:hover{
+    background-color: #2376DD;
+    padding: 60px;
+}
+
+
+.services {
+    background-color: #ff9baf;
+    padding: 60px;
+}
+
+.services:hover{
+    background-color: #ebda71;
+    padding: 60px;
+}
+
+
+.contact {
+    background-color: #80aac9;
+    padding: 60px;
+}
+
+.contact:hover{
+    background-color: #DDD6F3 ;
+    padding: 60px;
+}
+
+.pages {
+    background-color: #4f9285;
+    padding: 60px;
+}
+
+.pages:hover{
+    background-color: #16A085;
+    padding: 60px;
+}
+
+.pages:hover{
+   background-color: #a6e6f1 ;
+}
+
